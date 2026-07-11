@@ -86,6 +86,8 @@ function About() {
                 <span>MATLAB</span>
                 <span>Git</span>
                 <span>RAG</span>
+                <span>LLMs</span>
+                <span>github</span>
               </div>
             </div>
           </div>
