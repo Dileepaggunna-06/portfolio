@@ -92,6 +92,21 @@ function About() {
             </div>
           </div>
         </div>
+
+        <div className="about-card">
+          <h2>LeetCode</h2>
+          <p>
+            I solve algorithm challenges on LeetCode to sharpen my data structures
+            and problem-solving skills.
+          </p>
+          <a
+            href="https://leetcode.com/u/dileep_aggunna/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            dileep_aggunna
+          </a>
+        </div>
       </div>
     </div>
   )

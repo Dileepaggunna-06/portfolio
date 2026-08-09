@@ -51,6 +51,17 @@ function Contact() {
         </a>
       </div>
 
+      <div className="contact-card">
+        <h2>🧠 LeetCode</h2>
+        <a
+          href="https://leetcode.com/u/dileep_aggunna/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Visit My LeetCode Profile →
+        </a>
+      </div>
+
     </div>
   );
 }
