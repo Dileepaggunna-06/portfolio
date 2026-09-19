@@ -9,12 +9,10 @@ function Home() {
         <h2>Aggunna Dileep</h2>
 
         <h3>Full Stack Developer</h3>
-        <div className="floating-circle"></div>
 
         <p>
           Passionate about building modern web applications using React,
           Node.js, Express.js, and SQL.
-          <div className="floating-circle"></div>
         </p>
       </div>
 
@@ -22,9 +20,9 @@ function Home() {
         <div className="floating-circle"></div>
         <img src={profile} alt="Profile" />
       </div>
-      <div className="floating-circle"></div>
     </section>
   );
 }
 
 export default Home;
+

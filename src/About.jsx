@@ -107,6 +107,20 @@ function About() {
             dileep_aggunna
           </a>
         </div>
+
+        <div className="about-card">
+          <h2>Codolio</h2>
+          <p>
+            Track my coding profiles, stats, and programming achievements across platforms on Codolio.
+          </p>
+          <a
+            href="https://codolio.com/profile/mMCBXBs"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            mMCBXBs
+          </a>
+        </div>
       </div>
     </div>
   )

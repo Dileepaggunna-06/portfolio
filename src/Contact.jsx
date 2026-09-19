@@ -62,6 +62,17 @@ function Contact() {
         </a>
       </div>
 
+      <div className="contact-card">
+        <h2>📊 Codolio</h2>
+        <a
+          href="https://codolio.com/profile/mMCBXBs"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Visit My Codolio Profile →
+        </a>
+      </div>
+
     </div>
   );
 }
