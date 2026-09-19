@@ -35,9 +35,7 @@ function Navbar() {
     <header className="navbar-header">
       <nav className="navbar">
         <NavLink to="/" className="logo" onClick={closeMenu}>
-          <span className="logo-accent">&lt;</span>
           Portfolio
-          <span className="logo-accent">/&gt;</span>
         </NavLink>
 
         {/* Desktop Navigation Links */}
@@ -91,7 +89,7 @@ function Navbar() {
           aria-label={isOpen ? "Close menu" : "Open menu"}
           aria-expanded={isOpen}
         >
-          {isOpen ? <FiX size={24} /> : <FiMenu size={24} />}
+          {isOpen ? <FiX size={26} /> : <FiMenu size={26} />}
         </button>
       </nav>
 
@@ -156,4 +154,5 @@ function Navbar() {
 }
 
 export default Navbar;
+
 

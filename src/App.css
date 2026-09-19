@@ -45,14 +45,12 @@ body {
 }
 
 .logo {
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 700;
-  letter-spacing: 1px;
-  color: #ffffff;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #a5b4fc;
   text-decoration: none;
-  display: flex;
-  align-items: center;
-  gap: 4px;
   transition: transform 0.2s ease;
 }
 
@@ -60,10 +58,6 @@ body {
   transform: scale(1.03);
 }
 
-.logo-accent {
-  color: #38bdf8;
-  font-weight: 800;
-}
 
 /* Desktop Navigation */
 .nav-links {
